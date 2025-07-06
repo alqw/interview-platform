@@ -8,6 +8,7 @@ npm install dayjs
 npm install firebase
 npm install firebase-admin --save
 npm install ai @ai-sdk/google
+npm install @vapi-ai/web
 ```
 ## Run
 ``` bash
