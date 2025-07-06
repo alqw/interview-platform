@@ -7,6 +7,7 @@ npx shadcn@latest add button form input sonner
 npm install dayjs
 npm install firebase
 npm install firebase-admin --save
+npm install ai @ai-sdk/google
 ```
 ## Run
 ``` bash
@@ -19,3 +20,4 @@ npm run dev
 - React
 - Typescript
 - Firebase
+- Google AI Studio
